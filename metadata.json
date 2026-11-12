@@ -1,0 +1,6 @@
+{
+  "name": "iTube",
+  "description": "Stream and play music and video with background playback and rich controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

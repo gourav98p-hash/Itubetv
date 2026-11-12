@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true" android:drawable="@drawable/yt_fill_experimental_thumb_down_vd_theme_24" />
+    <item android:state_selected="true" android:drawable="@drawable/yt_fill_experimental_thumb_down_vd_theme_24" />
+    <item android:drawable="@drawable/yt_outline_experimental_thumb_down_vd_theme_24" />
+</selector>
